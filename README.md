@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning JavaScript, Reactjs, Css, HTML , nodejs,Express and mongoDB.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, Backend Engineer and Full Stack (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing anikiyusuf130@gmail.com.
+- 📫 You can [view my resume](https://anikiyusuf.netlify.app) and contact me by emailing anikiyusuf130@gmail.com.
 
 ---
 
