@@ -7,9 +7,9 @@
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, Css, HTML , nodejs,Express and mongoDB.
+- 🌱 I’m currently learning JavaScript, Reactjs, Css, HTML, nodejs, Express, Go  and mongoDB.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, Backend Engineer and Full Stack (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front Engineer, Backend Engineer and Full Stack.
 - 📫 You can [view my resume](https://anikiyusufportfolio.netlify.app) and contact me by emailing anikiyusuf130@gmail.com.
 
 ---
